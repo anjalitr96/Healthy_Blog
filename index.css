@@ -1,0 +1,28 @@
+.container{
+    max-width: 1200px;
+    height: 500px;
+    
+  
+}
+.header-div{
+   
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    background-color: white;
+    
+    
+ }
+ .header-li{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    grid-gap: 24px;
+    
+}
